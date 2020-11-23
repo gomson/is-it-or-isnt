@@ -1,0 +1,25 @@
+{
+	"title": "'Is it, or isn't?', a game by nik, in C++.",
+	"under_title": "thx openorbis",
+	"start_text": "Press (OPTIONS) or (X) to start!",
+	
+	"question_format": "Is this a %s?",
+	"question_altverb_format": "Is this an %s?",
+	"under_picture": "(X) - Yes\n(O) - No",
+	"hud_text": "Score: %d",
+	"lost_text": "Game Over!\nPress (X) or (OPTIONS) to try again!",
+	"idiot_png_text": "in case you didn't understand,\nthat ngon is an idiot.",
+	"version_text": "Version: %s",
+	
+	
+	
+	
+	"wow an easter egg": "hello, it's very nice of you that you're trying to look at the format!",
+	"wow an easter egg twice": "plz give hug :(",
+	
+	"wtf": "am2r is my favorite operating system",
+	"heh": "unlike lojical, i don't care if you rip the assets =^-^=",
+	"desc": "WGFS means Weird Game File System, WEND means EOF",
+	
+	"DER MANN": "[unknown] was here"
+}
